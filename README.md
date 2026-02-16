@@ -50,8 +50,10 @@ Through this project, I improved my skills in:
 ________________________________________
 ________________________________________
 👤 Author
-Abin
+Abin P
+
 Aspiring Data Analyst
+
 Skills: Power BI | SQL | Excel | Data Visualization | Business Intelligence
 
 
